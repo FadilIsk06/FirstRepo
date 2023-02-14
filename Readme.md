@@ -1,1 +1,1 @@
-File yang dibuat di lokal komputer
+File yang dibuat di lokal komputer.
